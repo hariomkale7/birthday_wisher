@@ -163,7 +163,7 @@ No external server or personal computer is required.
 **Hariom Kale**
 
 - GitHub: https://github.com/hariomkale7
-- LinkedIn: *(Add your LinkedIn profile URL here)*
+- LinkedIn: *https://www.linkedin.com/in/hariomkale7*
 
 ---
 
