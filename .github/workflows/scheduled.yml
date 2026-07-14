@@ -37,12 +37,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Create birthdays.csv
-        run: |
-          echo "$BIRTHDAYS_CSV" > birthdays.csv
-        env:
-          BIRTHDAYS_CSV: ${{ secrets.BIRTHDAYS_CSV }}
-
       - name: Run script
         env:
           # Your secrets are available as environment variables
